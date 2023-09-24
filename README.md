@@ -30,4 +30,5 @@ These insights can be used to identify opportunities for improving company profi
 
 ## Acknowledgements
 The Superstore sales data used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
 Dashboard visualization for this project on tableau [Dashboard](https://public.tableau.com/app/profile/gilang.wiradhyaksa/viz/Milestone_1_16952848245730/Milestone_1)
