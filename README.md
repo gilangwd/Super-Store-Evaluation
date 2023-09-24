@@ -15,4 +15,19 @@ The Superstore Sales Analysis and Visualization project aims to analyze sales da
 - Tableau
 
 ## File Description
-- `SuperStore_Sales_Analysis.ipynb`: Jupyter Notebook containing the code used for data cleaning, exploratory data analysis, and visualization.
+- `SuperStore_Sales_Analysis.ipynb` : Jupyter Notebook containing the code used for data cleaning, exploratory data analysis, and visualization.
+- `SuperStore_Sales_Data.csv` : CSV file containing the Superstore sales data.
+
+## Result
+The analysis and visualization of the Superstore sales data revealed several key insights, as follows :
+- Most profitable and unprofitable state
+- Most proftable customer segment
+- Most profitable product category
+- Best selling product
+- Company profit in each region in the last 4 years
+
+These insights can be used to identify opportunities for improving company profit within the Superstore business.
+
+## Acknowledgements
+The Superstore sales data used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+Dashboard visualization for this project on tableau [Dashboard](https://public.tableau.com/app/profile/gilang.wiradhyaksa/viz/Milestone_1_16952848245730/Milestone_1)
