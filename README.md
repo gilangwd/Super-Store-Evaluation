@@ -46,7 +46,7 @@ To achieve the Superstore goals, we need to perform data analysis and create a d
 ---
 ![Profit pre Region by Year](./images/06_profit_region_by_year.png)
 
-## Comclusion
+## Conclusion
 The analysis and visualization of the Superstore sales data revealed several key insights, as follows :
 - Most profitable and unprofitable state
 - Most proftable customer segment
